@@ -3,7 +3,7 @@ Remote controlled robot with Me USB Host and a 2.4GHz Vibration USB Wireless Sho
 
 ![TankBot](/Images/20160128_202144.jpg)
 
-###[Demonstration video](http://www.youtube.com)###
+###[Demonstration video](https://youtu.be/ZcSULTI4U7s)###
 
 ####Built with parts from Kreativadelar.se:####
 [MeUSBHost](http://www.kreativadelar.se/shop/product/me-usb-host?tm=produkter/elektronik/styrning)
